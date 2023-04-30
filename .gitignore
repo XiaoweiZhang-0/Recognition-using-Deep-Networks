@@ -1,0 +1,6 @@
+data/
+.DS_Store
+results/
+report_files/
+report/
+fashionModel/
